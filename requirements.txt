@@ -3,7 +3,7 @@ pandas
 numpy
 requests
 matplotlib
-tensorflow==2.15.0
+tensorflow==2.12
 scikit-learn
 folium
 streamlit-folium
